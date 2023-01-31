@@ -1,11 +1,9 @@
-import './App.css';
+const App = () => {
+    return (
+        <div>
+            App
+        </div>
+    );
+};
 
-function App() {
-  return (
-    <div className="wrap">
-
-    </div>
-  );
-}
-
-export default App;
+export {App};
